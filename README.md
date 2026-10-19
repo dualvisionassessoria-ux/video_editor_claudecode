@@ -34,7 +34,7 @@ CLAUDE.md                    # instrui o Claude Code a usar as skills
 Pré-requisitos: [Claude Code](https://claude.com/claude-code), Python 3.10+, Node 20+ (só para motion graphics) e ffmpeg (`apt install ffmpeg`, `brew install ffmpeg` ou `winget install ffmpeg`).
 
 ```bash
-git clone https://github.com/SEU-USUARIO/editor-de-video-claude-code.git
+git clone https://github.com/dualvisionassessoria-ux/video_editor_claudecode
 cd editor-de-video-claude-code
 bash .claude/skills/edicao-video/scripts/preparar_ambiente.sh      # faster-whisper + modelo (~1,6 GB)
 bash .claude/skills/limpeza-audio-musica/scripts/instalar_deepfilternet.sh   # limpeza de ruído
