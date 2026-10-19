@@ -1,0 +1,10 @@
+node_modules/
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.mkv
+trabalho/
+modelos/
+__pycache__/
+.env
